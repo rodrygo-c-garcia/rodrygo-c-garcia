@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrygo-c-garcia&show_icons=true&locale=en" alt="rodrygo-c-garcia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrygo-c-garcia&" alt="rodrygo-c-garcia" /></p>
