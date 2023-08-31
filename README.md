@@ -1,8 +1,9 @@
-<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h4 align="center" style="font-weight: 100">Soy un estudiante de último año de ingeniería en Ciencias de la Computación en la Universidad San Francisco Xavier de Chuquisaca. Me apasiona la programación, el diseño web, la inteligencia artificial y el desarrollo de software. He participado en varios cursos y talleres online para mejorar mis habilidades y ampliar mis conocimientos. He creado varios proyectos personales y colaborativos que puedes ver en mi GitHub.</h4>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 # 💫 Soft Skill:
 <ul>
