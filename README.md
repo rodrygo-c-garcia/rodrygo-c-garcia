@@ -31,14 +31,4 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rodrygo-c-garcia&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rodrygo-c-garcia&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
