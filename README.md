@@ -2,6 +2,7 @@
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## 💫 Soft Skill:
+
 <ul>
   <li>🤝 Trabajo en equipo.</li>
   <li>🧠 Resolución de problemas.</li>
