@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 ## 💫 Soft Skill:
 
 <ul>
