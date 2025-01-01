@@ -51,7 +51,7 @@
 ## 🖱️ Work Space
 <div align="center" style="display: flex; justify-content: space-around;">
  <div>
-   <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="600" alt="KDE Plasma - Arch Linux">
+   <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="650" alt="KDE Plasma - Arch Linux">
    <p>
      <strong><a href="https://kde.org/plasma-desktop" target="_blank" rel="noopener noreferrer">KDE Plasma</a> + ArchLinux</strong><br>
      WM Theme: Mkos-BigSur-Night
@@ -59,7 +59,7 @@
  </div>
 
  <div>
-   <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="600" alt="Hyprland - Arch Linux">
+   <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="650" alt="Hyprland - Arch Linux">
    <p>
      <strong><a href="https://github.com/hyprwm/Hyprland" target="_blank" rel="noopener noreferrer">Hyprland</a> + ArchLinux</strong>
    </p>
@@ -82,5 +82,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrygo-c-garcia&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-![hypr](https://github.com/user-attachments/assets/fddbd36a-c08e-4829-90f7-cc450f0b1393)
-![spacing](https://github.com/user-attachments/assets/f37cc0cd-a19c-479e-b155-e01bf3f9a7b0)
