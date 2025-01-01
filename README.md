@@ -50,21 +50,19 @@
 
 ## 🖱️ Work Space
 
-## 💻 Work Space
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="450" alt="KDE Plasma - Arch Linux">
+  <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="800" alt="KDE Plasma - Arch Linux">
 </p>
 <p align="center">
-  <strong>KDE Plasma 6.2.4 + ArchLinux</strong><br>
+  <strong><a href="https://kde.org/plasma-desktop">KDE Plasma</a> + ArchLinux</strong><br>
   WM Theme: Mkos-BigSur-Night
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="450" alt="Hyprland - Arch Linux">
+  <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="800" alt="Hyprland - Arch Linux">
 </p>
 <p align="center">
-  <strong>Hyprland + ArchLinux</strong>
+  <strong><a href="https://github.com/hyprwm/Hyprland">Hyprland</a> + ArchLinux</strong>
 </p>
 
 
