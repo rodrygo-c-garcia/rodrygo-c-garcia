@@ -50,10 +50,23 @@
 
 ## 🖱️ Work Space
 
+## 💻 Work Space
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="450" alt="KDE Plasma - Arch Linux">
+</p>
+<p align="center">
+  <strong>KDE Plasma 6.2.4 + ArchLinux</strong><br>
+  WM Theme: Mkos-BigSur-Night
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="450" alt="Hyprland - Arch Linux">
 </p>
+<p align="center">
+  <strong>Hyprland + ArchLinux</strong>
+</p>
+
 
 ### **IDEs y Editores de Código**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
