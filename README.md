@@ -46,10 +46,13 @@
 ### **Cloud & API**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+## 🖱️ Work Space
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="250" alt="KDE Plasma - Arch Linux">
-  <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="250" alt="Hyprland - Arch Linux">
+  <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="450" alt="KDE Plasma - Arch Linux">
+  <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="450" alt="Hyprland - Arch Linux">
 </p>
 
 ### **IDEs y Editores de Código**
