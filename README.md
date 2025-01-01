@@ -49,21 +49,22 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 ## 🖱️ Work Space
+<div align="center" style="display: flex; justify-content: space-around;">
+ <div>
+   <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="600" alt="KDE Plasma - Arch Linux">
+   <p>
+     <strong><a href="https://kde.org/plasma-desktop" target="_blank" rel="noopener noreferrer">KDE Plasma</a> + ArchLinux</strong><br>
+     WM Theme: Mkos-BigSur-Night
+   </p>
+ </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="800" alt="KDE Plasma - Arch Linux">
-</p>
-<p align="center">
-  <strong><a href="https://kde.org/plasma-desktop">KDE Plasma</a> + ArchLinux</strong><br>
-  WM Theme: Mkos-BigSur-Night
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="800" alt="Hyprland - Arch Linux">
-</p>
-<p align="center">
-  <strong><a href="https://github.com/hyprwm/Hyprland">Hyprland</a> + ArchLinux</strong>
-</p>
+ <div>
+   <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="600" alt="Hyprland - Arch Linux">
+   <p>
+     <strong><a href="https://github.com/hyprwm/Hyprland" target="_blank" rel="noopener noreferrer">Hyprland</a> + ArchLinux</strong>
+   </p>
+ </div>
+</div>
 
 
 ### **IDEs y Editores de Código**
@@ -72,11 +73,6 @@
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kitty Terminal](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white)
-
-<p align="center">
-  <strong>KDE Plasma - Arch Linux</strong> | <strong>Hyprland - Arch Linux</strong>
-</p>
-
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
