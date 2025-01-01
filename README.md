@@ -46,12 +46,22 @@
 ### **Cloud & API**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
-#### **IDEs y Editores de Código**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da4cc5c1-e748-4210-9fa5-770bb2a6e494" width="250" alt="KDE Plasma - Arch Linux">
+  <img src="https://github.com/user-attachments/assets/86f890b5-9923-4cca-8302-416661c57fdf" width="250" alt="Hyprland - Arch Linux">
+</p>
+
+### **IDEs y Editores de Código**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kitty Terminal](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white)
+
+<p align="center">
+  <strong>KDE Plasma - Arch Linux</strong> | <strong>Hyprland - Arch Linux</strong>
+</p>
 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
@@ -62,3 +72,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrygo-c-garcia&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+![hypr](https://github.com/user-attachments/assets/fddbd36a-c08e-4829-90f7-cc450f0b1393)
+![spacing](https://github.com/user-attachments/assets/f37cc0cd-a19c-479e-b155-e01bf3f9a7b0)
