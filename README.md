@@ -73,10 +73,9 @@ Linux enthusiast and clean-code advocate.
   <img src="https://raw.githubusercontent.com/rodrygo-c-garcia/rodrygo-c-garcia/master/assets/251217_10h53m14s_screenshot.png" width="800" />
 </p>
 
-
 <p align="center">
   <strong>Arch Linux • Hyprland</strong><br/>
-  Minimal and highly customized workflow focused on performance and developer productivity
+  Sleek, minimal, and fully customized for productivity
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
