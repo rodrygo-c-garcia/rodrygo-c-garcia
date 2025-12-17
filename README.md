@@ -70,8 +70,9 @@ Linux enthusiast and clean-code advocate.
 ## 🖥️ Development Environment
 
 <p align="center">
-  <img src="https://github.com/rodrygo-c-garcia/assets/251217_10h53m14s_screenshot.png" width="600" />
+  <img src="https://raw.githubusercontent.com/rodrygo-c-garcia/rodrygo-c-garcia/master/assets/251217_10h53m14s_screenshot.png" width="800" />
 </p>
+
 
 <p align="center">
   <strong>Arch Linux • Hyprland</strong><br/>
