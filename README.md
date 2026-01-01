@@ -85,6 +85,7 @@ Linux enthusiast and clean-code advocate.
 ![](https://github-readme-stats.vercel.app/api?username=rodrygo-c-garcia&theme=merko&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rodrygo-c-garcia&theme=merko&hide_border=true)
 
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 ## 🌐 Connect with Me
