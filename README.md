@@ -1,25 +1,30 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot</h3>
+<h3 align="center">Backend / Fullstack Developer | Node.js (NestJS) & Java (Spring Boot)</h3>
 
-<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<img align="right" width="100px" height="100px" alt="side_sticker"
+src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center">
-Developer with 3+ years of experience building backend systems,  
-enterprise platforms and scalable applications.  
-Linux enthusiast and clean-code advocate.
+Backend-focused developer with experience building APIs and web platforms  
+using Node.js (NestJS) and Java (Spring Boot).  
+Interested in SaaS products, clean architecture and real-world systems.
 </p>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<img align="center"
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="1000"/>
 
 ## 🧠 About Me
 
-- Backend-oriented developer with strong experience in **Java & Spring Boot**
-- Comfortable working with **enterprise systems**, multitenant architectures and integrations
-- I value **clean architecture**, maintainability and well-tested code
-- Daily Linux user, focused on productivity and efficient workflows
+- Backend-oriented developer with experience in **Node.js (NestJS)** and **Java (Spring Boot)**
+- Built **REST APIs** for SaaS and internal business platforms
+- Familiar with **multitenant architectures**, authentication (JWT / OAuth) and integrations
+- Comfortable working across backend and frontend when needed (**React / Next.js**)
+- Daily **Linux** user, focused on clean code, maintainability and practical solutions
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<img align="center"
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+width="1000"/>
 
 ## 💻 Tech Stack
 
